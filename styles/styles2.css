@@ -548,6 +548,14 @@ nav {
     gap: 30px;
 }
 
+.redecor {
+    padding-left: 100px;
+}
+
+.designer {
+    padding-right: 100px;  
+}
+
 .redecor-menue {
     height: 289px;
     margin: 0 31px;
@@ -638,7 +646,7 @@ nav {
 
 .sup01 {
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 
 .support {
@@ -647,7 +655,7 @@ nav {
 }
 
 .choice {
-    margin-left: 210px;
+    margin-left: -407px;
 }
 
 .text01 {
@@ -658,7 +666,7 @@ nav {
     font-size: 14px;
     line-height: 100%;
     color: rgba(54, 54, 54, 1);
-    padding-top: 7px;
+    padding-top: 15px;
     padding-left: 15px;
 }
 
@@ -668,7 +676,7 @@ nav {
     font-size: 14px;
     line-height: 100%;
     color: rgba(54, 54, 54, 1);
-    padding-top: 12px;
+    padding-top: 15px;
     padding-left: 15px;
     vertical-align: center; 
     width: 199px;
@@ -681,7 +689,7 @@ nav {
     font-size: 14px;
     line-height: 100%;
     color: rgba(54, 54, 54, 1);
-    padding-top: 7px;
+    padding-top: 15px;
     padding-left: 15px;
     vertical-align: center; 
     width: 199px;
@@ -697,6 +705,7 @@ nav {
     border-radius: 50%;
     background-color:#E3B873;
     margin-bottom: 10px;
+    border: 10px white solid;
 }
 
 .request {
@@ -801,7 +810,23 @@ nav {
     padding-left: 49px;    
 }
 
-.fon.img.sup {
+.fon-img-sup {
     margin-top: -97px;
-    height: 645px;
+    height: 690px;
+}
+
+.pig-circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 72px;
+    width: 72px;
+    border-radius: 50%;
+    background-color:#E3B873;
+    margin-bottom: 10px;
+}
+
+.pig {
+    display: flex;
+    justify-content: flex-end;
 }
