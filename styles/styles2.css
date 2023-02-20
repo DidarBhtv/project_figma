@@ -363,13 +363,10 @@ nav {
 }
 
 .img3 {
-   padding-left: auto;
-   padding-top: auto;
    filter: brightness(20%);
 }
 
 .image3 {
-    height: 100%;
     padding-left: 308px;
     padding-top: 50px;
 }
@@ -604,6 +601,8 @@ nav {
     margin-top: -152px;
     position: relative;
     z-index: 1;
+    width: 330px;
+    margin-left: 34px;
 }
 
 .overhaulh4 {
@@ -633,7 +632,7 @@ nav {
     line-height: 120%;
     text-transform: uppercase;
     height: 54px;
-    /* width: 228px; */
+    width: 228px;
     border: none;
 }
 
@@ -800,4 +799,9 @@ nav {
 .second-checkbox {
     display: flex;
     padding-left: 49px;    
+}
+
+.fon.img.sup {
+    margin-top: -97px;
+    height: 645px;
 }
