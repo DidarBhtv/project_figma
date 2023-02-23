@@ -829,4 +829,16 @@ nav {
 .pig {
     display: flex;
     justify-content: flex-end;
+    margin-right: 230px;
+    margin-top: -70px;
 }
+
+.pig-text {
+    color: rgba(227, 184, 115, 1);
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-size: 18px;
+    width: 344px;
+    height: 47px;
+}
+
