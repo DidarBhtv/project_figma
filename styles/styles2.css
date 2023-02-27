@@ -823,14 +823,12 @@ nav {
     width: 72px;
     border-radius: 50%;
     background-color:#E3B873;
-    margin-bottom: 10px;
 }
 
 .pig {
     display: flex;
-    justify-content: flex-end;
-    margin-right: 230px;
-    margin-top: -70px;
+    align-items: center;
+    padding-top: 20px;
 }
 
 .pig-text {
@@ -839,6 +837,51 @@ nav {
     font-style: normal;
     font-size: 18px;
     width: 344px;
-    height: 47px;
 }
 
+.cont-real {
+    background-image: url('../images/fonphoto.jpg');
+    background-size: cover;
+    height: 864px;
+    padding-top: 194px;
+    position: relative;
+    width: 100%;
+}
+
+.real {
+    position: relative;
+    z-index: 1; 
+    width: 411px;
+    height: 66px;  
+}
+
+.realiz {
+    position: relative;
+    z-index: 1; 
+    color: white;
+    list-style: none;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 15px;
+}
+
+.one {
+    text-decoration:underline;
+    color:#E3B873;
+    margin-bottom: 25px;
+}
+
+.titlereal {
+    font-family:  'Yeseva One';
+    font-style: Regular;
+    font-size: 27px;
+    line-height: 37px;
+    line-height: 120%;
+    color: #E3B873;
+}
+ 
+.list {
+    margin-bottom: 25px;
+}
