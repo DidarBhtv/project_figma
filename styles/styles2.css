@@ -846,6 +846,7 @@ nav {
     padding-top: 194px;
     position: relative;
     width: 100%;
+    display: flex;
 }
 
 .real {
@@ -854,6 +855,7 @@ nav {
     width: 411px;
     height: 66px;  
 }
+
 
 .realiz {
     position: relative;
@@ -890,5 +892,5 @@ nav {
     display: grid;
     position: relative;
     z-index: 1; 
-    
+
 }
