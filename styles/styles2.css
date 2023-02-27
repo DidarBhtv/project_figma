@@ -885,3 +885,10 @@ nav {
 .list {
     margin-bottom: 25px;
 }
+
+.photo {
+    display: grid;
+    position: relative;
+    z-index: 1; 
+    
+}
